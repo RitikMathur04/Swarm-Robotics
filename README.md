@@ -16,3 +16,5 @@ The project is implemented using open-source Arduino Software IDE which makes it
 2x L293D (Motor Driver)<br>
 Connecting Wires<br>
 1x IR Sensor Array(5)<br>
+<h4> Details: </h4> 
+https://drive.google.com/file/d/1Q7sbvQcSKO_Wwg56vYQjKu2fsRjhYBt8/view?usp=sharing
